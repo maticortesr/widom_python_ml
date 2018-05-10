@@ -1,2 +1,2 @@
-# widom_python_ml
-Workshop covering ml techniques in python
+# Python ML Workshop
+Workshop covering regressions, classification and clustering in python. Led by Prof. Widom from Stanford.
